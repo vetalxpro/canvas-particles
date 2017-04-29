@@ -1,0 +1,19 @@
+{
+  "name": "canvas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "webpack": "webpack",
+    "devserver": "webpack-dev-server"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/express": "^4.0.35",
+    "awesome-typescript-loader": "^3.1.2",
+    "html-webpack-plugin": "^2.28.0",
+    "typescript": "^2.3.1",
+    "webpack": "^2.4.1",
+    "webpack-dev-server": "^2.4.5"
+  }
+}
